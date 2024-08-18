@@ -1,0 +1,5 @@
+require("Wawerruuu.plugins-setup")
+require("Wawerruuu.core.options")
+require("Wawerruuu.core.keymaps")
+require("Wawerruuu.core.colorscheme")
+require("Wawerruuu.plugins.lualine")
